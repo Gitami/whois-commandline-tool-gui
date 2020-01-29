@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amites Power cmd WHOIS", "Amites Power cmd WHOIS\Amites Power cmd WHOIS.csproj", "{146642F3-B83D-475C-B76E-E3E75A1FE8B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{146642F3-B83D-475C-B76E-E3E75A1FE8B1}.Debug|x86.ActiveCfg = Debug|x86
+		{146642F3-B83D-475C-B76E-E3E75A1FE8B1}.Debug|x86.Build.0 = Debug|x86
+		{146642F3-B83D-475C-B76E-E3E75A1FE8B1}.Release|x86.ActiveCfg = Release|x86
+		{146642F3-B83D-475C-B76E-E3E75A1FE8B1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

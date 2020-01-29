@@ -1,0 +1,8 @@
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\bin\Debug\Amites Power cmd WHOIS.exe
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\bin\Debug\Amites Power cmd WHOIS.pdb
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Debug\Amites_Power_cmd_WHOIS.Form1.resources
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Debug\Amites_Power_cmd_WHOIS.Properties.Resources.resources
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Debug\Amites Power cmd WHOIS.csproj.GenerateResource.Cache
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Debug\Amites Power cmd WHOIS.exe
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Debug\Amites Power cmd WHOIS.pdb

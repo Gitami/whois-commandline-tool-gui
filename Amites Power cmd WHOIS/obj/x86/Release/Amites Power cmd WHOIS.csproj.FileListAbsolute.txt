@@ -1,0 +1,24 @@
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\bin\Release\Amites Power cmd WHOIS.exe
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\bin\Release\Amites Power cmd WHOIS.pdb
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites_Power_cmd_WHOIS.Form1.resources
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites_Power_cmd_WHOIS.Properties.Resources.resources
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites Power cmd WHOIS.csproj.GenerateResource.Cache
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites Power cmd WHOIS.exe
+C:\Users\amite\Documents\Visual Studio 10\Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites Power cmd WHOIS.pdb
+C:\Domains\VisualStudioProjects\Visual Studio 2010.beta\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites Power cmd WHOIS.exe
+C:\Domains\VisualStudioProjects\Visual Studio 2010.beta\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites Power cmd WHOIS.pdb
+C:\Domains\VisualStudioProjects\Visual Studio 2010.beta\Amites Power cmd WHOIS\Amites Power cmd WHOIS\bin\Release\Amites Power cmd WHOIS.exe
+C:\Domains\VisualStudioProjects\Visual Studio 2010.beta\Amites Power cmd WHOIS\Amites Power cmd WHOIS\bin\Release\Amites Power cmd WHOIS.pdb
+C:\Domains\VisualStudioProjects\Visual Studio 2010.beta\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Domains\VisualStudioProjects\Visual Studio 2010.beta\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites_Power_cmd_WHOIS.Form1.resources
+C:\Domains\VisualStudioProjects\Visual Studio 2010.beta\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites_Power_cmd_WHOIS.Properties.Resources.resources
+C:\Domains\VisualStudioProjects\Visual Studio 2010.beta\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites Power cmd WHOIS.csproj.GenerateResource.Cache
+C:\Domains\VisualStudioProjects\My Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites Power cmd WHOIS.exe
+C:\Domains\VisualStudioProjects\My Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites Power cmd WHOIS.pdb
+C:\Domains\VisualStudioProjects\My Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\bin\Release\Amites Power cmd WHOIS.exe
+C:\Domains\VisualStudioProjects\My Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\bin\Release\Amites Power cmd WHOIS.pdb
+C:\Domains\VisualStudioProjects\My Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Domains\VisualStudioProjects\My Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites_Power_cmd_WHOIS.Form1.resources
+C:\Domains\VisualStudioProjects\My Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites_Power_cmd_WHOIS.Properties.Resources.resources
+C:\Domains\VisualStudioProjects\My Projects\Amites Power cmd WHOIS\Amites Power cmd WHOIS\obj\x86\Release\Amites Power cmd WHOIS.csproj.GenerateResource.Cache
